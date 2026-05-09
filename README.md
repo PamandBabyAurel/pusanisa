@@ -38,8 +38,9 @@ This repository documents the setup process completed in Cursor for installing a
 
 ## Current Status
 
-- Installation links for both extensions were triggered successfully.
-- Final activation/sign-in must be completed in the Cursor UI (Install/Reload/Login prompts).
+- Both extension installation links were triggered successfully.
+- Codex is connected and usable in Cursor.
+- Claude Code is installed but not connected because the current account does not have a Pro plan.
 
 ## Git Workflow Used
 
